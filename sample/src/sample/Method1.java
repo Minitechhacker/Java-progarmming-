@@ -1,6 +1,5 @@
 package sample;
-
-class method
+class method2
 {
 	int add(int a,int b)
 	{
@@ -11,16 +10,13 @@ class method
 		return a+b+c;
 	}
 }
-
-
-public class Methodoverloading {
+public class Method1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-          method over=new method();
-          //System.out.println(over.add(11, 11));
-          System.out.println(over.add(11, 11, 11));
-          
+       method2 m=new method2();
+       System.out.println("your first add values:"+m.add(10, 10));
+       System.out.println("your second add values:"+m.add(10, 11, 12));
 	}
 
 }

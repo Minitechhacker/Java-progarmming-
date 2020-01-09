@@ -1,10 +1,12 @@
 package sample;
-
+import java.util.*;
 public class Ifelseifexample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		  int marks=65;  
+		Scanner s=new Scanner(System.in);
+		System.out.println("what is your float marks:");
+		  float marks=s.nextFloat();  
 	      
 		    if(marks<50)
 		    {  

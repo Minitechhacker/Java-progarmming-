@@ -17,7 +17,7 @@ class student
 }
 public class Par {
 
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		// TODO Auto-generated method stub
         student s2=new student(111,"mini");
         student s1=new student(112,"durai");

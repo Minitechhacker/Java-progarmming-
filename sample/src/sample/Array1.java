@@ -24,7 +24,7 @@ public class Array1 {
 	      // accessing the elements of the specified array 
 	      for (int i = 0; i < arr.length; i++) 
 	      {
-	    	  if(i==3)
+	    	 if(i==3)
 	    	  {
 	    		  break;
 	    	  }

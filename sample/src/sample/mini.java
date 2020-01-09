@@ -2,7 +2,7 @@ package sample;
 import java.util.*;
 
 
-public class mini {
+public class MIni {
 
 	public static void main(String[] args) {
 		

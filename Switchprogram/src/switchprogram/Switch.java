@@ -19,7 +19,7 @@ public class Switch {
 		    	System.out.println("30");  
 		    break;
 		    case 4: 
-		    	System.out.println("30");  
+		    	System.out.println("40");  
 		    break;
 		    //Default case statement  
 		    default:
