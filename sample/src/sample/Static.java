@@ -2,7 +2,7 @@ package sample;
 
 class mini
 {
-	public static int a=0;
+	public  int a=0;
 	void count()
 	{
 		a++;
