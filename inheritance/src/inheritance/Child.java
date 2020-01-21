@@ -12,6 +12,6 @@ public class Child extends Parent
   }
   void call()
   {
-	  super.bank();
+	  super.bike();
   }
 }

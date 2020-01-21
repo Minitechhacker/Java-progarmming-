@@ -9,6 +9,7 @@ public class Main {
 		c.bike();
 		c.call();
 		c.display();
+		c.study();
 	}
 
 }
