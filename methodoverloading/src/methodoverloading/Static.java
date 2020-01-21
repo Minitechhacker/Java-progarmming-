@@ -1,7 +1,7 @@
 package methodoverloading;
 class st
 {
-	public static int a=0;
+	public static  int a=0;
 	public void increment()
 	{
 		a++;

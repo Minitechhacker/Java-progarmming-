@@ -21,7 +21,8 @@ public class Thistest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		student24 s=new student24(111,"mini",75.00f);
-		s.display();
+		System.out.println(s);
+		//s.display();
 		
 		
 
