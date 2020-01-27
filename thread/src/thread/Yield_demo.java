@@ -44,7 +44,7 @@ class MyThread2 extends Thread
 				System.out.println("system is going to sleep");
 				try
 				{
-					sleep(1000);
+					sleep(20000);
 				}
 				catch(Exception e)
 				{
