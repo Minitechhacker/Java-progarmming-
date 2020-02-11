@@ -28,12 +28,12 @@ public class Nested_try {
 		}
 		catch (ArrayIndexOutOfBoundsException e)
 		{
-			System.out.println("Array Index out of bounds exception occurs");
+			System.out.println("Array Index out of bounds exception occurs"+e);
 		}
 	}
 	catch (ArithmeticException ae)
 	{
-		System.out.println("this exception due to divide by zero");
+		System.out.println("this exception due to divide by zero"+ae);
 	}
 }
 }

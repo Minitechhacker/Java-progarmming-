@@ -7,8 +7,8 @@ public class Fileout {
 
 		try
 		{
-			FileOutputStream mini=new FileOutputStream("F:mini.txt");
-		String s="hi im minidurai";
+			FileOutputStream mini=new FileOutputStream("F:md.txt");
+		String s="hi im minidurai 8512";
 		byte b[]=s.getBytes();
 		mini.write(b);
 		

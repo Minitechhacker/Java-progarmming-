@@ -7,7 +7,7 @@ public class Fileinput {
 
 		try
 		{
-			FileInputStream m=new FileInputStream("F:mini.txt");
+			FileInputStream m=new FileInputStream("F:md.txt");
 			int i;
 			while((i=m.read())!=-1)
 			System.out.print((char)i);

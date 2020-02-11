@@ -12,7 +12,7 @@ public class Finally_Demo {
 	private float divide(int a,int b)
 	{
 		try {
-		return a/b;
+		return a/b; 
 		}
 		finally  
 		{
