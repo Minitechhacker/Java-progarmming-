@@ -9,7 +9,7 @@ public class Operators {
     
 	Operators ob=new Operators();
 	
-    	
+    
     String name="mini";
     System.out.println(name instanceof String);
     System.out.println(ob instanceof Operators);
