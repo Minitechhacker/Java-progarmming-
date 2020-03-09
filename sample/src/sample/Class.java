@@ -10,11 +10,11 @@ class object
 		System.out.println("what is a and b values:");
 		a=in.nextInt();
 		b=in.nextInt();
-		
+		System.out.println("total:"+(a+b));	//this one is correct 
 	}
 	void display()
 	{
-		System.out.println("total:"+(a+b));
+		System.out.println("total:"+(a+b));    //this one is wrong
 	}
 }
 
